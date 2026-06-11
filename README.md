@@ -1,10 +1,10 @@
-# 💳 AI-Based Credit Scoring System using Machine Learning
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codealpha-ai-credit-scoring-system-2026.streamlit.app/)
 
-## 📌 Final Year Project
+# 💳 AI-Based Credit Scoring System using Machine Learning
 
 ---
 
-# 📖 Abstract
+#  Abstract
 
 The AI-Based Credit Scoring System is a Machine Learning-powered financial analytics application developed to predict an individual's creditworthiness using historical financial data. Traditional credit approval systems are often time-consuming and may involve manual analysis, leading to inefficiencies and increased financial risk.
 
@@ -64,7 +64,7 @@ Customer Financial Data
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash id="4zw5rr"
 credit_scoring_project/
@@ -89,7 +89,7 @@ credit_scoring_project/
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 ## Programming Language
 
@@ -113,7 +113,7 @@ credit_scoring_project/
 
 ---
 
-# 📊 Dataset Features
+#  Dataset Features
 
 | Feature            | Description                  |
 | ------------------ | ---------------------------- |
@@ -126,21 +126,21 @@ credit_scoring_project/
 
 ---
 
-# 🔥 Key Features
+#  Key Features
 
-✅ AI-Based Credit Risk Prediction
-✅ Machine Learning Integration
-✅ Feature Engineering
-✅ Streamlit Web Application
-✅ Secure Login Authentication
-✅ Real-Time Prediction
-✅ Financial Data Analysis
-✅ Model Serialization using Joblib
-✅ User-Friendly Dashboard
+1. AI-Based Credit Risk Prediction
+2. Machine Learning Integration
+3. Feature Engineering
+4. Streamlit Web Application
+5. Secure Login Authentication
+6. Real-Time Prediction
+7. Financial Data Analysis
+8. Model Serialization using Joblib
+9. User-Friendly Dashboard
 
 ---
 
-# 🔐 Authentication Module
+# Authentication Module
 
 The system includes a secure login page to restrict unauthorized access.
 
@@ -153,7 +153,7 @@ Password: admin123
 
 ---
 
-# ⚙️ Working Methodology
+#  Working Methodology
 
 ## Step 1 — Data Collection
 
@@ -193,7 +193,7 @@ The trained model is deployed using Streamlit Cloud.
 
 ---
 
-# 📈 Performance Metrics
+#  Performance Metrics
 
 The project evaluates model performance using:
 
@@ -207,7 +207,7 @@ The project evaluates model performance using:
 
 ---
 
-# ▶️ Installation Guide
+#  Installation Guide
 
 ## 1️⃣ Clone Repository
 
@@ -264,7 +264,7 @@ Deployment Steps:
 
 ---
 
-# 📷 Application Screenshots
+#  Application Screenshots
 
 Add screenshots of:
 
@@ -273,16 +273,23 @@ Add screenshots of:
 * Prediction Results
 * Financial Summary
 
-Example Folder:
 
-```bash id="4c5kz0"
-screenshots/
-   └── app_ui.png
-```
+---
+## Live Demo
+
+Streamlit App:
+https://codealpha-ai-credit-scoring-system-2026.streamlit.app/
+
+## Features
+- Credit Risk Prediction
+- Random Forest Classifier
+- Interactive Dashboard
+- Data Visualization
+- Secure Login System
 
 ---
 
-# 🌍 Real-World Applications
+#  Real-World Applications
 
 * Banking Systems
 * Loan Approval Systems
@@ -293,7 +300,7 @@ screenshots/
 
 ---
 
-# 💡 Future Scope
+# Future Scope
 
 * Integration with real banking datasets
 * Deep Learning implementation
@@ -305,7 +312,7 @@ screenshots/
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 This project helped in understanding:
 
@@ -319,7 +326,7 @@ This project helped in understanding:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 ## Vaishnavi Jadhav
 
@@ -334,22 +341,17 @@ Areas of Interest:
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Conclusion
+#  Conclusion
 
 The AI-Based Credit Scoring System demonstrates how Machine Learning can be effectively applied in the financial domain to automate and improve credit risk assessment. The project combines AI, financial analytics, and web technologies to build a practical and scalable intelligent financial solution.
 
 ---
 
-# ⭐ Support
 
-If you like this project:
-
-* ⭐ Star the repository
-* 🍴 Fork the repository
 
